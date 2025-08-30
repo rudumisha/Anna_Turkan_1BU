@@ -1,0 +1,113 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Comic+Relief:wght@400;700&family=Jersey+15&family=Playwrite+AU+SA:wght@100..400&family=Rubik+Iso&display=swap');
+
+header img, p {
+    text-align: center;
+}
+
+header img {
+    width: 2000;
+    height: 160px;
+}
+
+body {
+    background-color: rgb(171, 237, 249);
+    color: rgb(12, 85, 103);
+}
+
+nav{
+   margin: 20px 0px;
+   text-align: center;
+   padding: 20px 0px;
+   background-color: rgb(255, 255, 255);
+   border-radius: 15px;
+   font-family: sans-serif;
+}
+
+.time {
+    border: 1px solid rgb(12, 85, 103);
+    background-color: rgb(12, 85, 103);
+    color: white;
+    border-radius: 20px;
+    padding: 10px;
+    margin: 10px;
+}
+
+.sweets {
+    margin-left: 50px;
+}
+
+nav a {
+    text-decoration: none;
+    padding-right: 60px;
+    margin: 15px;
+    color: black;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+main img {
+    width: 250px;
+    height: 170px;
+    text-align: left;
+}
+
+.carbonara {
+    height: 250px;
+    width: 255px;
+}
+
+.reddragon {
+    width: 285px;
+}
+
+.cake {
+    width: 235px;
+    height: 230px;
+}
+
+.cupcake {
+    height: 240px;
+}
+
+.drink {
+    width: 275px;
+    height: 190px;
+}
+
+.drink2 {
+    height: 250px;
+    width: 280px;
+}
+
+main p {
+    text-align: left;
+}
+
+.text {
+    border: 3px solid rgb(12, 85, 103);
+    color: aliceblue;
+    border-radius: 10px;
+    padding: 5px;
+    background-color:rgb(12, 85, 103);
+    font-family: sans-serif;
+}
+
+.text2, main h3 {
+    font-size: 22px;
+    font-family: sans-serif;
+}
+
+table, tr, td {
+    border: 3px solid rgb(12, 85, 103);
+}
+
+table {
+    background-color: white;
+}
+
+.author {
+    text-align: left;
+}
